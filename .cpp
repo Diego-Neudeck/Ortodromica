@@ -137,7 +137,7 @@ double factorial(float a){
 
 	return(fac);
 }
-//pepe
+
 double potencia(float x,int y)
    {
    double acum=1;
@@ -147,6 +147,4 @@ double potencia(float x,int y)
       acum=1;
    return(acum);
    }
-//diego neudeck
-
-//hola lo vagociciicaacs
+ 
