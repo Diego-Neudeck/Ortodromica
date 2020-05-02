@@ -147,3 +147,5 @@ double potencia(float x,int y)
       acum=1;
    return(acum);
    }
+//diego neudeck
+
